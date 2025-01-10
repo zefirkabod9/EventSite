@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    background-image: url(/assets/images/light-theme.svg);
+    background-image: url(assets/images/light-theme.svg);
     background-size: 25%;
     background-position: center;
     font-family: 'Jersey-15', sans-serif;
@@ -78,7 +78,7 @@ ul li:hover {
     flex: 1;
     position: relative;
     padding: 0 10%;
-    min-height: 200vh; /* Adjust this value as needed */
+    min-height: 200vh;
 }
 
 section {
